@@ -1,0 +1,12 @@
+{
+	"graph":"/mnt/genee/docker",
+        "log-driver": "journald",
+        "bip":"172.17.42.1/24",
+        "dns":[
+                "172.17.42.1",
+                "114.114.114.114"],
+        "registry-mirrors":[
+                "https://reg-mirror.qiniu.com",
+                "https://hub-mirror.c.163.com",
+                "https://registry.aliyuncs.com"]
+}
